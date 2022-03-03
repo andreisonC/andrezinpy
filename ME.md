@@ -1,4 +1,4 @@
-- 👋 Hi, I’m andrez
+- 👋 Hi, I’m andre
 - 
 - 👀 I’m interested in ...
 - 
