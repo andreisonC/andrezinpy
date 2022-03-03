@@ -10,10 +10,10 @@
 - > some projects in python
 - 
 - 📫 How to reach me ...
+- 
+> instagram: andreison.py 
 
-> instagram: andreison.py <
-
-> whatsApp: wa.me/+5585997612795 <
+> whatsApp: wa.me/+5585997612795 
 
 <!---
 andrezinpy/andrezinpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
