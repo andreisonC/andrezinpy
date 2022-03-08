@@ -1,3 +1,12 @@
+print(' ')
+
+from tqdm import tqdm 
+import time
+with tqdm(total=100) as pbar:
+    for i in range(10):
+        time.sleep(0.3)
+        pbar.update(10)
+
 t = input(" ")
 if t == 's':
     print('\046[0;34;43m TABELA: \046[m')
