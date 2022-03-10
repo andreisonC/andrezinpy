@@ -1,4 +1,4 @@
-rint("Codificador de palavras")
+print("Codificador de palavras")
 chave =input("Digite a palavra para sem encriptada! ")
 
 #CODIFICADOR#
