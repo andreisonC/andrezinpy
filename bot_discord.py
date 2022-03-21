@@ -24,4 +24,4 @@ class MyClient(discord.Client):
 intents = discord.Intents.default()
 intents.members = True
 client = MyClient(intents = intents)
-client.run('ODcwNjY2MTQ0NDI2NjI3MDky.YQQFCQ.pLt3dzk-IEgVVQ4gE0smUZU2g9U')
+client.run('TOKEN HERE')
